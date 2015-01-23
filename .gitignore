@@ -1,0 +1,4 @@
+# large/disallowed file types
+*.csv
+
+data/
